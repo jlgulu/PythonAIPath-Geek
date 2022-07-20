@@ -3,7 +3,7 @@ Python人工智能学习路线、Python人工智能视频教程、Python人工�
 
 # 思维导图
 
-![Python人工智能学习路线以及分支思维导图](D:\桌面\知乎写手\Python人工智能学习路线以及分支思维导图.png)
+![Python人工智能学习路线以及分支思维导图](https://www.zhixi.com/view/09c3027e)
 
 # **Python人工智能学习路线以及分支（纯干货）**
 
