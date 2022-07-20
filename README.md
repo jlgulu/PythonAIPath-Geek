@@ -796,7 +796,7 @@ Mask R-CNN\_RolAlign
 
 **人工智能之CV计算机视觉集训营：<https://www.bilibili.com/video/BV1WJ411B7nL?spm_id_from=333.337.search-card.all.click>**
 
-
+<!-- end list -->
 
 ## 六、**自然语言处理**
 
@@ -818,7 +818,7 @@ Mask R-CNN\_RolAlign
 
 （8）维特比算法
 
-
+<!-- end list -->
 
 ### 2、NLP基础
 
@@ -838,7 +838,7 @@ Jieba、HanLP、Gensim、jiagu、ltp
 
 序号化、哑编码、词袋法、TF-IDF、主题模型（LSA、LDA等）、Word2Vec(哈夫曼树、负采样)、Char2Vec、Doc2Vec、FastText、cw2Vec
 
-
+<!-- end list -->
 
 ### 3、NLP进阶基础
 
@@ -856,7 +856,7 @@ BIO、BIOES
 
 （5）语义分析
 
-
+<!-- end list -->
 
 ### 4、意图识别
 
@@ -868,7 +868,7 @@ BIO、BIOES
 
 意图分类识别、槽位识别（词表穷举、基于规则、传统机器学习算法、深度学习算法）
 
-
+<!-- end list -->
 
 ### 5、Seq2Seq
 
@@ -880,7 +880,7 @@ BIO、BIOES
 
 （4）应用
 
-
+<!-- end list -->
 
 ### 6、Attention机制
 
@@ -902,7 +902,7 @@ BIO、BIOES
 
 （9）Local Attention
 
-
+<!-- end list -->
 
 ### 7、Transformer
 
@@ -924,7 +924,7 @@ BIO、BIOES
 
 Weighted Transformer、Universal Transformer、Gaussian Transformer、IR Transformer、Transformer XL
 
-
+<!-- end list -->
 
 ### 8、Bert
 
@@ -950,7 +950,7 @@ Weighted Transformer、Universal Transformer、Gaussian Transformer、IR Transfo
 
 XL Net、Bert-wwm、ERNIE V1 & V2、ALBert、RoBert、SpanBert
 
-
+<!-- end list -->
 
 ### **自然语言处理推荐文章：**
 
@@ -1006,7 +1006,7 @@ XL Net、Bert-wwm、ERNIE V1 & V2、ALBert、RoBert、SpanBert
 
 [**https://blog.csdn.net/weixin\_42137700/article/details/86608343**](https://blog.csdn.net/weixin_42137700/article/details/86608343)
 
-
+<!-- end list -->
 
 ### **自然语言处理推荐书籍：**
 
@@ -1020,7 +1020,7 @@ XL Net、Bert-wwm、ERNIE V1 & V2、ALBert、RoBert、SpanBert
 
 **《精通Python自然语言处理》Deepti，Chopra，Nisheeth，Joshi，Iti ... 著，王威 译**
 
-
+<!-- end list -->
 
 ### **自然语言处理推荐视频：**
 
@@ -1052,6 +1052,6 @@ XL Net、Bert-wwm、ERNIE V1 & V2、ALBert、RoBert、SpanBert
 
 **别人家的计算机竟然会纠正句子的错误：https://www.sikiedu.com/course/754**
 
-
+<!-- end list -->
 
 ## 七、面试
