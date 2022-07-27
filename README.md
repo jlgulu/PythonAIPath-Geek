@@ -1,17 +1,15 @@
 # PythonAIPath-Geek
-Python人工智能学习路线、Python人工智能视频教程、Python人工智能+B站视频整合、Python人工智能面试题、Python人工智能开源项目、Python人工智能书籍推荐、一份涵盖大部分Python人工智能工程师所需要掌握的核心知识，面试求职找工作，来这里，你不会后悔。以后会不断升级...
+Python人工智能学习路线、Python人工智能视频教程整合以及Python人工智能职位面试持续更新完善中！
+
+当前版本：2.0
 
 # 思维导图
 
-![Python人工智能学习路线以及分支思维导图](https://www.zhixi.com/view/09c3027e)
+https://www.zhixi.com/view/09c3027e
 
-# **Python人工智能学习路线以及分支（纯干货）**
+# **Python人工智能学习路线以及分支**
 
 ## **前言**
-
-说起人工智能，相信各位都不陌生，在生活中已经非常常见了。例如你手机语音助手，无人售货商店，自动驾驶汽车等等。客观地说，数字化、智能化已经是当前社会的发展趋势，而当下人工智能无疑是一大热门。那到底是蓝海还是刀山火海呢？这时就需要探求“水的深度”，只有你自己去试试水才能知道。
-
-当你已经有兴趣入这门坑的时候，则需要面对一个非常直观的问题：人工智能简单吗？我的回答是否定的，难！学习人工智能首先你要能熟练使用python，其次需要大量的数学知识，这时你才能更好的钻研各个算法原理等等。但是，这些对于一个初学者而言，根本上是面对这些问题时没有一个合适的方法来学习。
 
 据教育部不完全统计，2022年高校毕业生规模将达到1076万人。这将导致就业竞争压力也同步上升，加之近两年疫情影响，现在找工作已经是难上加难。与其学习网络上的“躺平、摆烂”，不如静下心来努力提升自己。正所谓技多不压身，多一门技术，也就相比于其他人而言，多一个竞争优势！希望本文能正真帮助到各位。
 
@@ -19,33 +17,31 @@ Python人工智能学习路线、Python人工智能视频教程、Python人工�
 
 ## 一、**Python基本功**
 
-首先，学习python人工智能得先把最基础的python学好，学扎实，不然一切都是空谈。截至目前为止，python已经位列第一的编程语言。不仅是因为它具有丰富和强大的类库以及优良的可扩展性和平台可移植性，还因为它语法简捷、清晰和易读。大白话来说就是，python优点多，且学习起来简单。而且当你学好python之后，马上就会步入第一个非常有趣的技术—python爬虫，所以不要犹豫，直接冲！
-
-
-
 ### 1、Python基础
 
-基础语法、函数、类
+**SiKi学院视频教学：<https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0**
 
-**SiKi学院视频教学：<https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0>**（主要是白嫖，讲得还简单易懂，hhhh）
+（主要是白嫖，讲得还简单易懂，hhhh）
 
-**小甲鱼视频教学：<https://www.bilibili.com/video/BV1xs411Q799?spm_id_from=333.337.search-card.all.click>**（全套共96节，课程有趣幽默，很多朋友都是通过这个入门的）
+**小甲鱼视频教学：<https://www.bilibili.com/video/BV1xs411Q799?spm_id_from=333.337.search-card.all.click>**
+
+（全套共96节，课程有趣幽默，很多朋友都是通过这个入门的）
 
 
 
-### 2、Python进阶
+### 2、Python进阶（大数据方向）
 
-Jupyter的使用、numpy、pandas、matplotlib
+**北大数据结构与算法python版视频教学：<https://www.bilibili.com/video/BV1VC4y1x7uv>**
 
-**北大数据结构与算法python版视频教学：<https://www.bilibili.com/video/BV1VC4y1x7uv>**（由北京大学陈斌老师主讲的，内容包括算法的分析、基本线性结构、递归与动态规划、排序与查找、树及其算法、图及其算法等，以Python语言讲解）
+（由北京大学陈斌老师主讲的，内容包括算法的分析、基本线性结构、递归与动态规划、排序与查找、树及其算法、图及其算法等，以Python语言讲解）
 
 
 
 ### 3、Python爬虫
 
-Pycharm的使用（如果不知道怎么下载的可以去csdn或者直接百度搜）、Requests包、BS4、动态请求与静态请求
+**B站爬虫视频教学**：**https://www.bilibili.com/video/BV1ha4y1H7sx**
 
-**B站爬虫视频教学**：**https://www.bilibili.com/video/BV1ha4y1H7sx**（这个爬虫视频内容比较全面了，从爬虫概念、https、requests、beautifulsoup、xpath、模拟登录、代理、异步、aiohhtp、selenium、scrapy框架和一些实战练习，如果你有python基础，不要犹豫直接冲！！！）
+（这个爬虫视频内容比较全面了，从爬虫概念、https、requests、beautifulsoup、xpath、模拟登录、代理、异步、aiohhtp、selenium、scrapy框架和一些实战练习，如果你有python基础，不要犹豫直接冲！！！）
 
 **爬取同城约会案例视频教学：<https://www.bilibili.com/video/BV147411f79a?spm_id_from=333.999.0.0>**
 
@@ -53,25 +49,19 @@ Pycharm的使用（如果不知道怎么下载的可以去csdn或者直接百度
 
 ## 二、**数学**
 
-数学这方面其实也没有大家想象的那么难，如果是已经在读或者已毕业的大学生就应该知道，这些都是大学的必修课程。所需的大部分数学知识和高中都有联系，如果是高中生在寒暑假之余想学习一下也是一个很不错的选择。废话不多说，请看下文！
-
-
-
 ### 1、高数
 
 （1）一元函数
-
-函数（初等函数、函数特性、函数的性质、复合函数）、导数（导数定义、求导公式、函数的求导法则、二阶导数、曲线凹凸性与拐点、函数极值最值问题）、极值（极值定义、极值存在的两个准则、无穷大和无穷小）
 
 （2）泰勒公式
 
 （3）多元函数
 
-偏导数、多元函数极值问题（拉格朗日乘数法）、方向导数与梯度
-
 （4）不定积分与定积分
 
-**梨米特高数视频教学：**[**https://www.bilibili.com/video/BV1864y1T7Ks?spm\_id\_from=333.337.search-card.all.click**（讲得比较全，如果有基础可以直接选择忽略）](https://www.bilibili.com/video/BV1864y1T7Ks?spm_id_from=333.337.search-card.all.click（讲得比较全，如果有基础可以直接选择忽略）)
+**梨米特高数视频教学：**[**https://www.bilibili.com/video/BV1864y1T7Ks**](https://www.bilibili.com/video/BV1864y1T7Ks?spm_id_from=333.337.search-card.all.click（讲得比较全，如果有基础可以直接选择忽略）)
+
+（讲得比较全，如果有基础可以直接选择忽略）
 
 
 
@@ -85,7 +75,9 @@ Pycharm的使用（如果不知道怎么下载的可以去csdn或者直接百度
 
 QR分解（施密特正交化）、实对称矩阵的谱分解、SVD奇异值分解
 
-**梨米特线性代数视频教学：<https://www.bilibili.com/video/BV1L7411a7Rz?spm_id_from=333.337.search-card.all.click>**（比较详细的视频讲解）
+**梨米特线性代数视频教学：<https://www.bilibili.com/video/BV1L7411a7Rz>**
+
+（比较详细的视频讲解）
 
 
 
