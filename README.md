@@ -69,9 +69,7 @@ https://www.zhixi.com/view/09c3027e
 
 （4）不定积分与定积分
 
-**梨米特高数视频教学：**[**https://www.bilibili.com/video/BV1864y1T7Ks**](https://www.bilibili.com/video/BV1864y1T7Ks?spm_id_from=333.337.search-card.all.click（讲得比较全，如果有基础可以直接选择忽略）)
-
-（讲得比较全，如果有基础可以直接选择忽略）
+**梨米特高数视频教学：**
 
 
 
