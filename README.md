@@ -19,21 +19,31 @@ https://www.zhixi.com/view/09c3027e
 
 ### 1、Python基础
 
-**SiKi学院视频教学：<https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0**
+下列视频三者选择一个入门观看即可。
+
+**SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0**
 
 （主要是白嫖，讲得还简单易懂，hhhh）
 
-**小甲鱼视频教学：<https://www.bilibili.com/video/BV1xs411Q799?spm_id_from=333.337.search-card.all.click>**
+**零基础入门学习Python：<https://www.bilibili.com/video/BV1xs411Q799>**
 
-（全套共96节，课程有趣幽默，很多朋友都是通过这个入门的）
+（这个不仅可以了解python基础还可以提前学习一些爬虫知识）
+
+**《零基础入门学习Python》最新版：**https://www.bilibili.com/video/BV1c4411e77t
+
+（小甲鱼最新Python版本，讲得可以）
 
 
 
 ### 2、Python进阶（大数据方向）
 
-**北大数据结构与算法python版视频教学：<https://www.bilibili.com/video/BV1VC4y1x7uv>**
+**3小时学会Python数据分析之numpy、pandas（完整版），详细通俗易懂：**https://www.bilibili.com/video/BV1qU4y1q73i
 
-（由北京大学陈斌老师主讲的，内容包括算法的分析、基本线性结构、递归与动态规划、排序与查找、树及其算法、图及其算法等，以Python语言讲解）
+（jupyter基础使用和numpy）
+
+**3天完成Python数据分析可视化进阶**：https://www.bilibili.com/video/BV1G94y197M2
+
+（有些东西没用，选择性观看，主要学习pandas和matplotlib）
 
 
 
