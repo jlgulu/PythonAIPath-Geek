@@ -69,11 +69,7 @@ https://www.zhixi.com/view/09c3027e
 
 （1）矩阵
 
-矩阵类型、行列式、矩阵的初等变换、矩阵向量求导法则、最小二乘法、矩阵的秩、向量组的性质、矩阵对角化（特征值、特征向量、对角化的条件）、二次型（标准型和正定型）、奇异矩阵、正交矩阵
-
 （2）矩阵分解
-
-QR分解（施密特正交化）、实对称矩阵的谱分解、SVD奇异值分解
 
 **梨米特线性代数视频教学：<https://www.bilibili.com/video/BV1L7411a7Rz>**
 
@@ -91,31 +87,23 @@ QR分解（施密特正交化）、实对称矩阵的谱分解、SVD奇异值分
 
 （4）条件概率
 
-全概率公式、贝叶斯公式
-
 （5）独立性
 
 （6）一维随机变量分布
 
-离散型随机变量、连续性随机变量
-
 （7）数字特征
-
-数学期望、方差、协方差
 
 （8）大数定理
 
 （9）极大似然估计
 
-**宋浩老师概率论视频教学：[https://www.bilibili.com/video/BV1ot411y7mU?spm\_id\_from=333.337.search-card.all.click](https://www.bilibili.com/video/BV1ot411y7mU?spm_id_from=333.337.search-card.all.click（讲得通俗易懂，我上学也看的这个！）https:/www.bilibili.com/video/BV1ot411y7mU?spm_id_from=333.337.search-card.all.click)**（讲得通俗易懂，我上学也看的这个！）
+**宋浩老师概率论视频教学：[https://www.bilibili.com/video/BV1ot411y7mU](https://www.bilibili.com/video/BV1ot411y7mU?spm_id_from=333.337.search-card.all.click（讲得通俗易懂，我上学也看的这个！）https:/www.bilibili.com/video/BV1ot411y7mU?spm_id_from=333.337.search-card.all.click)**
+
+（讲得通俗易懂，我上学也看的这个！）
 
 
 
 ## 三、**机器学习**
-
-想做英雄联盟胜负预测吗？没错，学习了机器学习你就可以通过过往胜负案例对当局游戏进行胜负预测！听了是不是很心动？！而且机器学习不仅仅能做胜负预测，还有许多你意想不到的功能，例如图片识别、语音识别等等。很多东西都需要自己切身体会了才知道，等你入门一段时间之后，就会发现这是一门多么好玩儿的技术！
-
-
 
 ### 1、线性回归
 
@@ -123,15 +111,9 @@ QR分解（施密特正交化）、实对称矩阵的谱分解、SVD奇异值分
 
 （2）构建线性回归
 
-最小二乘、极大似然估计（梯度下降）
-
 （3）线性回归多元拓展
 
-一元一次、一元N次、多元一次、多项式回归
-
 （4）模型的评估
-
-过拟合（Lasson回归、岭回归、拉格朗日乘数法）、欠拟合
 
 
 
@@ -141,11 +123,7 @@ QR分解（施密特正交化）、实对称矩阵的谱分解、SVD奇异值分
 
 （2）构建逻辑回归
 
-线性回归+概率、极大似然估计、Sigmoid、Softmax
-
 （3）模型评估
-
-分类（准确率、精确率、召回率、混淆矩阵、ROC曲线）、回归（均方差）
 
 
 
@@ -153,11 +131,7 @@ QR分解（施密特正交化）、实对称矩阵的谱分解、SVD奇异值分
 
 （1）KNN核心
 
-K值的选择、相似度的表示（距离、夹角余弦值、相关系数、方差、协方差）、决策（分类-多票表决、回归-加权平均）
-
 （2）KNN优化
-
-KD Tree
 
 
 
@@ -171,19 +145,13 @@ KD Tree
 
 （3）构建决策树
 
-方差、随机、ID3算法-分类、C4.5－分类、Cart树（分类-不纯度和基尼系数，回归-最小二乘）
-
 
 
 ### 5、集成算法
 
 （1）并行
 
-随机森林（Bagging抽样、决策树+Bagging抽样、ExtraTruee、TRTE、IForset）
-
 （2）串行
-
-提升算法（Adaboost、BGDT-XGBoost）
 
 （3）Stacking
 
@@ -193,21 +161,13 @@ KD Tree
 
 （1）K-means
 
-K-means++、K-means 2、Mini Batch K-means
-
 （2）Canopy
 
 （3）聚类算法的评估
 
-轮廓系数
-
 （4）层次聚类
 
-AGNES、DIANA
-
 （5）密度聚类
-
-DBSCAN、密度最大值算法(MDCA)
 
 （6）谱聚类
 
@@ -217,17 +177,11 @@ DBSCAN、密度最大值算法(MDCA)
 
 （1）必备知识
 
-梯度下降、拉格朗日乘数法、KKT条件、感知机模型
-
 （2）SVM线性可分
-
-软间隔、硬间隔
 
 （3）SVM线性不可分
 
 （4）核函数
-
-线性核函数、多项式核函数、高斯核函数、Sigmoid核函数
 
 （5）序列最小优化算法（SMO）
 
@@ -247,15 +201,11 @@ DBSCAN、密度最大值算法(MDCA)
 
 （6）贝叶斯网络
 
-简单贝叶斯网络、全连接贝叶斯网络、贝叶斯网络判定条件独立
-
 
 
 ### 9、EM算法
 
 （1）回顾
-
-最大似然估计(MLE)、K-means算法
 
 （2）贝叶斯算法估计
 
@@ -264,8 +214,6 @@ DBSCAN、密度最大值算法(MDCA)
 （4）EM算法
 
 （5）GMM算法
-
-高斯混合模型
 
 
 
@@ -277,19 +225,15 @@ DBSCAN、密度最大值算法(MDCA)
 
 （3）HMM简介
 
-HMM参数构成、HMM两个性质
-
 （4）HMM三个问题
 
-概率计算问题（直接计算、前向算法、后向算法）、学习问题（监督学习、非监督学习）、预测问题（近似算法、Viterbi算法）
+概率计算问题、学习问题、预测问题
 
 
 
 ### 11、主题模型
 
 （1）潜在语义分析（LSA）
-
-非负矩阵分解（NMF）
 
 （2）LDA
 
@@ -299,15 +243,9 @@ HMM参数构成、HMM两个性质
 
 （1）数据清洗
 
-预处理
-
 （2）清洗异常样本数据
 
-处理格式或者内容错误的数据、处理逻辑错误的数据、处理不需要的数据、处理关联性验证错误的数据
-
 （3）采样
-
-样本权重、数据不均衡（下采样、ENN、RENN、Tomek Link Removal、上采样、数据合成、异常点）、特征转换（文本数据转换数值数据、缺失值填充、哑编码、二值化、标准化与归一化、基于业务产生新的特征属性）、特征选择（Filter过滤法、Wrapper包装法、Embedded嵌入法）、降维（主成分分析PCA、线性判别分析LDA）
 
 
 
@@ -382,11 +320,17 @@ HMM参数构成、HMM两个性质
 
 **吴恩达机器学习视频教学：**
 
-[**https://www.bilibili.com/video/BV164411b7dx?p=3\&spm\_id\_from=pageDriver**](https://www.bilibili.com/video/BV164411b7dx?p=3&spm_id_from=pageDriver)（虽然全程英文讲解，但是有中文字幕，主要是能白嫖！）
+[**https://www.bilibili.com/video/BV164411b7dx?p=3\&spm\_id\_from=pageDriver**](https://www.bilibili.com/video/BV164411b7dx?p=3&spm_id_from=pageDriver)
 
-**机器学习案例视频教学：<https://www.bilibili.com/video/BV1jf4y1X7eF?spm_id_from=333.999.0.0>**（siki学院能白嫖的机器学习小案例）
+（虽然全程英文讲解，但是有中文字幕，主要是能白嫖！）
 
-**用人工智能的思想解释生物的形成与学习视频教学：<https://www.sikiedu.com/course/704>**（纯理论知识）
+**机器学习案例视频教学：<https://www.bilibili.com/video/BV1jf4y1X7eF?spm_id_from=333.999.0.0>**
+
+（siki学院能白嫖的机器学习小案例）
+
+**用人工智能的思想解释生物的形成与学习视频教学：<https://www.sikiedu.com/course/704>**
+
+（纯理论知识）
 
 **机器学习入门案例视频教学：<https://www.sikiedu.com/course/697>**
 
@@ -412,8 +356,6 @@ HMM参数构成、HMM两个性质
 
 （2）梯度下降
 
-随机梯度下降、小批量梯度下降
-
 
 
 ### 2、神经网络（DNN）
@@ -421,8 +363,6 @@ HMM参数构成、HMM两个性质
 （1）神经网络的原理
 
 （2）正反向传播
-
-正向传播、反向传播
 
 （3）激活函数
 
@@ -438,15 +378,9 @@ HMM参数构成、HMM两个性质
 
 （3）正反向传播
 
-CNN卷积、池化（最大池化、平均池化）
-
 （4）神经网络优化与评估
 
-模型参数初始化、高阶特征归一化（BN、IN、SN、GN）、防止过拟合（DropOut与遗忘、L2正则、批归一化、池化、relu激活函数）
-
 （5）CNN经典网络
-
-LeNet、AlexNet、ZFNet、VGGNet、GoogleNet、ResNet、DenseNet、SeNet、MobileNet、ShuffleNet
 
 
 
@@ -457,8 +391,6 @@ LeNet、AlexNet、ZFNet、VGGNet、GoogleNet、ResNet、DenseNet、SeNet、Mobil
 （2）正反向传播
 
 （3）RNN经典网络
-
-LSTM、GRU、单向RNN、双向RNN、Bi-Directional RNN
 
 
 
@@ -624,45 +556,57 @@ LSTM、GRU、单向RNN、双向RNN、Bi-Directional RNN
 
 **《Deep Learning with Python》Francois Chollet**
 
-> **《Hands-On Machine Learning with Scikit-Learn and TensorFlow0》Aurélien Géron**
->
-> **《TensorFlow Deep Learning Cookbook》Gulli和Kapoor**
->
-> **《Deep Learning: A Practitioners Approach》Adam Gibson 和 Josh Patterson**
->
-> **《Deep Learning for Computer Vision with Python》Adrian Rosebrock**
+**《Hands-On Machine Learning with Scikit-Learn and TensorFlow0》Aurélien Géron**
+
+**《TensorFlow Deep Learning Cookbook》Gulli和Kapoor**
+
+**《Deep Learning: A Practitioners Approach》Adam Gibson 和 Josh Patterson**
+
+**《Deep Learning for Computer Vision with Python》Adrian Rosebrock**
 
 
 
 ### **深度学习推荐视频：**
 
-**吴恩达深度学习：<https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click>（全程中英双字幕不怕看不懂）**
+**吴恩达深度学习：<https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click>**
 
-**复旦大学邱锡鹏教授的《神经网络与深度学习》：<https://www.bilibili.com/video/BV1P3411u7c1?spm_id_from=333.337.search-card.all.click>（讲得非常好）**
+**（全程中英双字幕不怕看不懂）**
 
-**5个深度学习必学的神经网络：<https://www.bilibili.com/video/BV1kS4y1H74z?spm_id_from=333.337.search-card.all.click>（通俗易懂，建议观看）**
+**复旦大学邱锡鹏教授的《神经网络与深度学习》：<https://www.bilibili.com/video/BV1P3411u7c1?spm_id_from=333.337.search-card.all.click>**
 
-**麻省理工深度学习公开课：<https://www.bilibili.com/video/BV17R4y1F7AK?spm_id_from=333.337.search-card.all.click>（有能力的同学可以观摩一下）**
+**（讲得非常好）**
 
-**基于深度的Python验证码识别：<https://www.sikiedu.com/course/751>（收费的，讲得挺不错，CNN的实际案例）**
+**5个深度学习必学的神经网络：<https://www.bilibili.com/video/BV1kS4y1H74z?spm_id_from=333.337.search-card.all.click>**
 
-**最新版TensorFlow2.X快速入门：<https://www.sikiedu.com/course/786>（白嫖，讲得很好）**
+**（通俗易懂，建议观看）**
 
-**TensorFlow2.X API详解（一） 常用函数与深度学习：**
+**麻省理工深度学习公开课：<https://www.bilibili.com/video/BV17R4y1F7AK?spm_id_from=333.337.search-card.all.click>**
 
-**<https://www.sikiedu.com/course/811>（收费的）**
+**（有能力的同学可以观摩一下）**
 
-**TensorFlow2.X API详解 增加先验知识的改进算法：**
+**基于深度的Python验证码识别：<https://www.sikiedu.com/course/751>**
 
-**<https://www.sikiedu.com/course/986>（收费的）**
+**（收费的，讲得挺不错，CNN的实际案例）**
 
-**深入神经网络中数学原理计算 - 反向传播：**
+**最新版TensorFlow2.X快速入门：<https://www.sikiedu.com/course/786>**
 
-**<https://www.sikiedu.com/course/748/tasks>（收费的，用实际运算推导，非常容易理解，好评）**
+**（白嫖，讲得很好）**
 
-**自然语言处理 - AI写诗（基于RNN）：**
+**TensorFlow2.X API详解（一） 常用函数与深度学习：**<https://www.sikiedu.com/course/811>
 
-**<https://www.sikiedu.com/course/781>（收费的，RNN运用的实际案例）**
+**（收费的）**
+
+**TensorFlow2.X API详解 增加先验知识的改进算法：**https://www.sikiedu.com/course/986
+
+**（收费的）**
+
+**深入神经网络中数学原理计算 - 反向传播：**<https://www.sikiedu.com/course/748/tasks>
+
+**（收费的，用实际运算推导，非常容易理解，好评）**
+
+**自然语言处理 - AI写诗（基于RNN）：**<https://www.sikiedu.com/course/781>
+
+**（收费的，RNN运用的实际案例）**
 
 
 
@@ -674,19 +618,11 @@ LSTM、GRU、单向RNN、双向RNN、Bi-Directional RNN
 
 （2）指标
 
-IOU、MAP
-
 （3）二阶段检测算法
-
-R-CNN、SPP-Net、Fast R-CNN、Faster R-CNN、R-FCN（位置敏感池化）
 
 （4）一阶段检测算法
 
-YOLO（V1、V2、V3）、SSD（Anchors机制、多尺度特征图抽样、全卷积网络结构）、Cascade R-CNN
-
 （5）拓展
-
-基于Anchor Free的目标检测（CornerNet、CenterNet、CornerNet-Lite）
 
 
 
@@ -694,11 +630,7 @@ YOLO（V1、V2、V3）、SSD（Anchors机制、多尺度特征图抽样、全卷
 
 （1）MTCNM
 
-P-Net、R-Net、O-Net
-
 （2）Face Net
-
-三元损失函数（Triplet Loss）
 
 
 
@@ -718,11 +650,7 @@ P-Net、R-Net、O-Net
 
 （7）Deep Lab
 
-V1、V2、V3
-
 （8）Mask R-CNN
-
-Mask R-CNN\_RolAlign
 
 
 
@@ -816,19 +744,13 @@ Mask R-CNN\_RolAlign
 
 （1）常用工具
 
-Jieba、HanLP、Gensim、jiagu、ltp
-
 （2）分词模式
 
 （3）分词技术
 
-规则分词（正向最大匹配、逆向最大匹配、双向最大匹配）、统计分词（N-gram模型、HMM、CRF）
-
 （4）新词发现
 
 （5）词向量
-
-序号化、哑编码、词袋法、TF-IDF、主题模型（LSA、LDA等）、Word2Vec(哈夫曼树、负采样)、Char2Vec、Doc2Vec、FastText、cw2Vec
 
 <!-- end list -->
 
@@ -836,11 +758,7 @@ Jieba、HanLP、Gensim、jiagu、ltp
 
 （1）词性标注
 
-BMES
-
 （2）命名实体识别
-
-BIO、BIOES
 
 （3）关系抽取
 
@@ -857,8 +775,6 @@ BIO、BIOES
 （2）难点
 
 （3）主要方法
-
-意图分类识别、槽位识别（词表穷举、基于规则、传统机器学习算法、深度学习算法）
 
 <!-- end list -->
 
@@ -914,8 +830,6 @@ BIO、BIOES
 
 （8）其他结构
 
-Weighted Transformer、Universal Transformer、Gaussian Transformer、IR Transformer、Transformer XL
-
 <!-- end list -->
 
 ### 8、Bert
@@ -936,11 +850,7 @@ Weighted Transformer、Universal Transformer、Gaussian Transformer、IR Transfo
 
 （8）根据不同的任务，Bert不同的四种输出
 
-一对句子的分类任务、单句子的分类任务、问答型任务、单句子命名实体识别
-
 （9）优化
-
-XL Net、Bert-wwm、ERNIE V1 & V2、ALBert、RoBert、SpanBert
 
 <!-- end list -->
 
@@ -1047,3 +957,7 @@ XL Net、Bert-wwm、ERNIE V1 & V2、ALBert、RoBert、SpanBert
 <!-- end list -->
 
 ## 七、面试
+
+### 1、分类面试
+
+### 2、整体面试
