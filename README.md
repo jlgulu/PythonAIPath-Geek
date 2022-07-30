@@ -69,7 +69,7 @@ https://www.zhixi.com/view/09c3027e
 
 （4）不定积分与定积分
 
-**梨米特高数视频教学：**
+**人工智能必会的高数基础：**https://www.bilibili.com/video/BV1i64y1o7mD
 
 
 
