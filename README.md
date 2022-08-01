@@ -5,7 +5,7 @@ Python人工智能学习路线、Python人工智能视频教程整合以及Pytho
 
 # 思维导图
 
-https://www.zhixi.com/view/09c3027e
+https://www.zhixi.com/view/09c30![Python人工智能学习路线以及分支思维导图](D:\桌面\知乎写手\PythonAIPath-Geek\Python人工智能学习路线以及分支思维导图.png)
 
 # **Python人工智能学习路线以及分支**
 
@@ -35,7 +35,7 @@ https://www.zhixi.com/view/09c3027e
 
 
 
-### 2、Python进阶（大数据方向）
+### 2、Python进阶（数据分析方向）
 
 **3小时学会Python数据分析之numpy、pandas（完整版），详细通俗易懂：**https://www.bilibili.com/video/BV1qU4y1q73i
 
@@ -106,8 +106,6 @@ https://www.zhixi.com/view/09c3027e
 （9）极大似然估计
 
 **宋浩老师概率论视频教学：[https://www.bilibili.com/video/BV1ot411y7mU](https://www.bilibili.com/video/BV1ot411y7mU?spm_id_from=333.337.search-card.all.click（讲得通俗易懂，我上学也看的这个！）https:/www.bilibili.com/video/BV1ot411y7mU?spm_id_from=333.337.search-card.all.click)**
-
-（讲得通俗易懂，我上学也看的这个！）
 
 
 
