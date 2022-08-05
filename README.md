@@ -25,15 +25,15 @@ https://www.zhixi.com/view/09c30
 
 **SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0**
 
-<!--（主要是白嫖，讲得还简单易懂，hhhh）-->
+（主要是白嫖，讲得还简单易懂，hhhh）
 
 **零基础入门学习Python：<https://www.bilibili.com/video/BV1xs411Q799>**
 
-<!--（这个不仅可以了解python基础还可以提前学习一些爬虫知识）-->
+（这个不仅可以了解python基础还可以提前学习一些爬虫知识）
 
 **《零基础入门学习Python》最新版：**https://www.bilibili.com/video/BV1c4411e77t
 
-<!--（小甲鱼最新Python版本，讲得可以）-->
+（小甲鱼最新Python版本，讲得可以）
 
 
 
@@ -41,11 +41,11 @@ https://www.zhixi.com/view/09c30
 
 **3小时学会Python数据分析之numpy、pandas（完整版），详细通俗易懂：**https://www.bilibili.com/video/BV1qU4y1q73i
 
-<!--（jupyter基础使用和numpy）-->
+（jupyter基础使用和numpy）
 
 **3天完成Python数据分析可视化进阶：**https://www.bilibili.com/video/BV1G94y197M2
 
-<!--（有些东西没用，选择性观看，主要学习pandas和matplotlib）-->
+（有些东西没用，选择性观看，主要学习pandas和matplotlib）
 
 
 
@@ -53,7 +53,7 @@ https://www.zhixi.com/view/09c30
 
 **B站爬虫视频教学**：**https://www.bilibili.com/video/BV1ha4y1H7sx**
 
-<!--（这个爬虫视频内容比较全面了，从爬虫概念、https、requests、beautifulsoup、xpath、模拟登录、代理、异步、aiohhtp、selenium、scrapy框架和一些实战练习，如果你有python基础，不要犹豫直接冲！！！）-->
+（这个爬虫视频内容比较全面了，从爬虫概念、https、requests、beautifulsoup、xpath、模拟登录、代理、异步、aiohhtp、selenium、scrapy框架和一些实战练习，如果你有python基础，不要犹豫直接冲！！！）
 
 **爬取同城约会案例视频教学：<https://www.bilibili.com/video/BV147411f79a?spm_id_from=333.999.0.0>**
 
@@ -73,7 +73,7 @@ https://www.zhixi.com/view/09c30
 
 **人工智能必会的高数基础：**https://www.bilibili.com/video/BV1i64y1o7mD
 
-<!--（高数基础就前几章，后几章讲得是线性代数和概率论的，酌情观看）-->
+（高数基础就前几章，后几章讲得是线性代数和概率论的，酌情观看）
 
 
 
@@ -85,7 +85,7 @@ https://www.zhixi.com/view/09c30
 
 **最全人工智能AI数学基础：https://www.bilibili.com/video/BV1Eq4y157pH**
 
-<!--（第四章与第五章内容为线性代数与矩阵）-->
+（第四章与第五章内容为线性代数与矩阵）
 
 
 
@@ -111,7 +111,7 @@ https://www.zhixi.com/view/09c30
 
 **最全人工智能AI数学基础：https://www.bilibili.com/video/BV1Eq4y157pH**
 
-<!--（第七章为概率论基础，第八章为概率分布）-->
+（第七章为概率论基础，第八章为概率分布）
 
 
 
