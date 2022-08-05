@@ -5,7 +5,9 @@ Python人工智能学习路线、Python人工智能视频教程整合以及Pytho
 
 # 思维导图
 
-https://www.zhixi.com/view/09c30![Python人工智能学习路线以及分支思维导图](D:\桌面\知乎写手\PythonAIPath-Geek\Python人工智能学习路线以及分支思维导图.png)
+https://www.zhixi.com/view/09c30
+
+![Python人工智能学习路线以及分支思维导图](..\PythonAIPath-Geek\Python人工智能学习路线以及分支思维导图.png)
 
 # **Python人工智能学习路线以及分支**
 
