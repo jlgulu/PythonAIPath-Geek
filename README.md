@@ -23,17 +23,11 @@ https://www.zhixi.com/view/09c30
 
 下列视频三者选择一个入门观看即可。
 
-**SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0**
+**[SiKi学院视频教学](https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0)**（主要是白嫖，讲得还简单易懂，hhhh）
 
-（主要是白嫖，讲得还简单易懂，hhhh）
+**[零基础入门学习Python](https://www.bilibili.com/video/BV1xs411Q799)**（这个不仅可以了解python基础还可以提前学习一些爬虫知识）
 
-**零基础入门学习Python：<https://www.bilibili.com/video/BV1xs411Q799>**
-
-（这个不仅可以了解python基础还可以提前学习一些爬虫知识）
-
-**《零基础入门学习Python》最新版：**https://www.bilibili.com/video/BV1c4411e77t
-
-（小甲鱼最新Python版本，讲得可以）
+**[《零基础入门学习Python》最新版](https://www.bilibili.com/video/BV1c4411e77t)**（小甲鱼最新Python版本，讲得可以）
 
 
 
