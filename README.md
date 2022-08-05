@@ -7,7 +7,7 @@ Python人工智能学习路线、Python人工智能视频教程整合以及Pytho
 
 https://www.zhixi.com/view/09c30
 
-![Python人工智能学习路线以及分支思维导图](.\Python人工智能学习路线以及分支思维导图.png)
+![Python人工智能学习路线以及分支思维导图](..\Python人工智能学习路线以及分支思维导图.png)
 
 # **Python人工智能学习路线以及分支**
 
