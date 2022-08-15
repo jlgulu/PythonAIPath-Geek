@@ -23,7 +23,6 @@ https://www.zhixi.com/view/09c30
 
 下列视频三者选择一个入门观看即可。
 
-<<<<<<< HEAD
 **[SiKi学院视频教学](https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0)**（主要是白嫖，讲得还简单易懂，hhhh）
 =======
 SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0
