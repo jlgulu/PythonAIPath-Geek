@@ -7,7 +7,7 @@ Python人工智能学习路线、Python人工智能视频教程整合以及Pytho
 
 https://www.zhixi.com/view/09c30
 
-![Python人工智能学习路线以及分支思维导图](..\Python人工智能学习路线以及分支思维导图.png)
+![Python人工智能学习路线以及分支思维导图](.\Python人工智能学习路线以及分支思维导图.png)
 
 # **Python人工智能学习路线以及分支**
 
@@ -21,26 +21,29 @@ https://www.zhixi.com/view/09c30
 
 ### 1、Python基础
 
-下列视频三者选择一个入门观看即可。
+下列视频都是python基础入门教程，三者选择一个入门观看即可。
 
-**[SiKi学院视频教学](https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0)**（主要是白嫖，讲得还简单易懂，hhhh）
-=======
-SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0
->>>>>>> 0d4aa09491b4d47913efc7820e68f51f7cfa03a2
+**[SiKi学院视频教学](https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from=333.999.0.0)**
 
-**[零基础入门学习Python](https://www.bilibili.com/video/BV1xs411Q799)**（这个不仅可以了解python基础还可以提前学习一些爬虫知识）
+（siki学院白嫖的，讲解非常简单易懂）
 
-**[《零基础入门学习Python》最新版](https://www.bilibili.com/video/BV1c4411e77t)**（小甲鱼最新Python版本，讲得可以）
+**[零基础入门学习Python](https://www.bilibili.com/video/BV1xs411Q799)**
+
+（这个不仅可以了解python基础还可以提前学习一些爬虫知识）
+
+**[《零基础入门学习Python》最新版](https://www.bilibili.com/video/BV1c4411e77t)**
+
+（小甲鱼最新Python版本，讲得可以）
 
 
 
 ### 2、Python进阶（数据分析方向）
 
-**3小时学会Python数据分析之numpy、pandas（完整版），详细通俗易懂：**https://www.bilibili.com/video/BV1qU4y1q73i
+[**3小时学会Python数据分析之numpy、pandas（完整版），详细通俗易懂**](https://www.bilibili.com/video/BV1qU4y1q73i)
 
 （jupyter基础使用和numpy）
 
-**3天完成Python数据分析可视化进阶：**https://www.bilibili.com/video/BV1G94y197M2
+[**3天完成Python数据分析可视化进阶**](https://www.bilibili.com/video/BV1G94y197M2)
 
 （有些东西没用，选择性观看，主要学习pandas和matplotlib）
 
@@ -48,11 +51,13 @@ SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from
 
 ### 3、Python爬虫
 
-**B站爬虫视频教学**：**https://www.bilibili.com/video/BV1ha4y1H7sx**
+[**B站爬虫视频教学**](https://www.bilibili.com/video/BV1ha4y1H7sx)
 
 （这个爬虫视频内容比较全面了，从爬虫概念、https、requests、beautifulsoup、xpath、模拟登录、代理、异步、aiohhtp、selenium、scrapy框架和一些实战练习，如果你有python基础，不要犹豫直接冲！！！）
 
-**爬取同城约会案例视频教学：<https://www.bilibili.com/video/BV147411f79a?spm_id_from=333.999.0.0>**
+[**爬取同城约会案例视频教学**](<https://www.bilibili.com/video/BV147411f79a?spm_id_from=333.999.0.0>)
+
+（爬虫案例教学，能让人深入体会python爬虫）
 
 
 
@@ -68,7 +73,7 @@ SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from
 
 （4）不定积分与定积分
 
-**人工智能必会的高数基础：**https://www.bilibili.com/video/BV1i64y1o7mD
+[**人工智能必会的高数基础**](https://www.bilibili.com/video/BV1i64y1o7mD)
 
 （高数基础就前几章，后几章讲得是线性代数和概率论的，酌情观看）
 
@@ -80,7 +85,7 @@ SiKi学院视频教学：https://www.bilibili.com/video/BV1iE411y7KR?spm_id_from
 
 （2）矩阵分解
 
-**最全人工智能AI数学基础：https://www.bilibili.com/video/BV1Eq4y157pH**
+[**最全人工智能AI数学基础**](https://www.bilibili.com/video/BV1Eq4y157pH)
 
 （第四章与第五章内容为线性代数与矩阵）
 
